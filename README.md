@@ -1,13 +1,15 @@
-# MegaETH Testnet Toolkit
+# MegaETH Testnet Toolkit — Early Prototype
 
-## Description
-This is a toolkit for testing MegaETH Testnet — L2 on Ethereum with a submillisecond delay and 100k+ TPS. It helps to simulate transactions and measure performance.
+An early learning experiment created while exploring the MegaETH testnet and real-time EVM tooling.
 
-## Installation
-1. Clone: git clone https://github.com/OlegonZo/megaeth-test-toolkit .git
-2. Install dependencies: pip install -r requirements.txt (see below)
+## Status
 
-## Usage examples
-### TPS Simulation
-`python
-print("Hello, MegaETH!") # Simple example, replace with real code
+This repository currently contains documentation-level prototype material only. A working transaction simulator, TPS benchmark, and reproducible performance test are **not implemented yet**.
+
+It is kept public as part of the learning timeline, but it should not be treated as a production tool or performance claim.
+
+For current portfolio work, see:
+
+- [Polymarket BTC research framework](https://github.com/OlegonZo/polymarket-btc-bot)
+- [Solana memecoin signal analyzer](https://github.com/OlegonZo/Memecoin-analyzer-)
+- [Solana whale transaction enricher](https://github.com/OlegonZo/Whale-tracker)
